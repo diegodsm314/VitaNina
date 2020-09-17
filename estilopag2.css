@@ -1,0 +1,114 @@
+body{
+    margin: 0px;
+    background-image: url(img/madeira.jpg);
+    background-attachment: fixed;
+    background-repeat: none;
+    background-size: cover;
+}
+
+header{
+  
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+h1{
+    font-family: 'Ranchers', cursive;
+}
+
+p{
+    font-family: 'Architects Daughter', cursive;
+    font-size: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-shadow: 1px 1px black;
+}
+
+h1{
+    border:2px solid white;
+    border-radius: 50%;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 50px;
+    text-shadow: 2px 2px black;
+}
+
+section{
+    margin: 30px;
+}
+img{
+    width: 200px;
+    height: 200px;
+    float: left;
+    border: 2px solid black;
+   
+}
+
+h2{
+    text-align: center;
+}
+
+.vitaminas{
+    background-color: #E6E6E6;
+    margin: 10px;
+    padding: 6px;
+    padding-bottom: 100px;
+}
+h3{
+    font-family: 'Ribeye Marrow', cursive;
+    font-size: 30px;
+    color: #FFF125;
+    background-color: #159421;
+    text-shadow: 2px 2px black;
+}
+
+strong{
+    font-size: 20px;
+}
+
+#vitalac{
+    margin: 10px;
+    padding: 6px;
+    text-align: center;
+    background-color:#E6E6E6;
+    padding-bottom: 100px;
+    text-align: center;
+
+}
+
+#semlac{
+    width: 600px;
+    height: 300px;
+    float: none;
+    text-align: center;
+}
+
+#lac{
+    font-family: 'Ribeye Marrow', cursive;
+    font-size: 30px;
+    
+}
+
+#cardapio{
+    background-color: #159421;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 4px;
+    color: white;
+    font-size: 40px;
+    text-shadow: 1px 1px black;
+}
+
+#lide{
+    font-size: 20px;
+}
+footer{
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+
+#foot{
+    font-size: 30px;
+}
